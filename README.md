@@ -1,4 +1,4 @@
-# spotify-ad-mute
+# Sudoku_Solver
 This is a program to solve sudokus.
 
 ## Example
@@ -17,7 +17,7 @@ dependencies:
 
     None
 
-or [download and extract the zip](https://github.com/marcoagbarreto/Sudoku_Solver/archive/main.zip) into your project folder.
+or [download and extract the zip](https://github.com/marcoagbarreto/Sudoku_Solver/archive/master.zip) into your project folder.
 
 ## Known limitations:
 * Sudoku format should be in an array form.
